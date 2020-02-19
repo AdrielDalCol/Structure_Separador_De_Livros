@@ -1,0 +1,3 @@
+/Users/adrieldalcolqueiroz/CLionProjects/Struct2Prova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adrieldalcolqueiroz/CLionProjects/Struct2Prova/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adrieldalcolqueiroz/CLionProjects/Struct2Prova/cmake-build-debug/CMakeFiles/Struct2Prova.dir
